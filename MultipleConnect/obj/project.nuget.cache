@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "79cCQTWs7yC0wHgMYdzYSkfJp9OAyb/cNmi0sBJeOjINCAX0/6UycKY2OpWp4BansZe8blAvLhBhsabCcPr+Zg==",
+  "success": true,
+  "projectFilePath": "C:\\projetos\\DotNet\\MultipleConnectAsync\\MultipleConnect\\MultipleConnect.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leomar.sartor\\.nuget\\packages\\dapper\\2.0.151\\dapper.2.0.151.nupkg.sha512",
+    "C:\\Users\\leomar.sartor\\.nuget\\packages\\dapper.sqlbuilder\\2.0.78\\dapper.sqlbuilder.2.0.78.nupkg.sha512",
+    "C:\\Users\\leomar.sartor\\.nuget\\packages\\mysqlconnector\\2.1.2\\mysqlconnector.2.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
